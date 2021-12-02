@@ -4,7 +4,7 @@ Rules for pull requests!
 # About ─═֍ KoboldPhoenix ֍═─
 ─═֍═─--------------------─═֍═─
 
-Hi! Im a Program Developer, Coding Student, Faceless Youtuber! This is all the code to my discord server :wink: Seeya there 😅
+Hi! Im a Program Developer, Coding Student, Faceless Youtuber! This is all the code to my discord server 😉 Seeya there 😅
 
 ─═֍═─--------------------─═֍═─
 # Credits
