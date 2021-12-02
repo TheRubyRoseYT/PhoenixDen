@@ -5,6 +5,7 @@ Rules for pull requests!
 ─═֍═─--------------------─═֍═─
 
 Hi! Im a Program Developer, Coding Student, Faceless Youtuber!
+
 This is all the code to my discord server :wink:
 
 ─═֍═─--------------------─═֍═─
