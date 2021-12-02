@@ -1,14 +1,6 @@
-# PhoenixDen
-Rules for pull requests!
-
-# About ─═֍ KoboldPhoenix ֍═─
+# ─═֍ The Phoenix Den ֍═─
 ─═֍═─--------------------─═֍═─
 
 Hi! Im a Program Developer, Coding Student, Faceless Youtuber! This is all the code to my discord server 😉 Seeya there 😅
 
 ─═֍═─--------------------─═֍═─
-# Credits
-─═֍ KoboldPhoenix ֍═─ : Host's / Maintain's the repository
-
-# Release
-https://api.github.com/repos/TheRubyRoseYT/Raft-Pheonix/zipball
